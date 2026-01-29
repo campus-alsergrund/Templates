@@ -1,0 +1,5 @@
+{
+  "name": "Docx Master Generator",
+  "description": "A local-first browser tool for generating complex Word documents from CSV data and templates, featuring custom table logic, date range management, and name tag generation.",
+  "requestFramePermissions": []
+}
